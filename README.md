@@ -12,9 +12,11 @@ You can change:
 ![Image of Personal-Website](https://github.com/WiLLiaM-noD/Personal-Website/blob/master/web%20screenshot/Screenshot_1.png)
 
 ## Your Speciality / What are you good at?
+Tell everyone what are you good at or things that you're interested to.
 ![Image of Personal-Website](https://github.com/WiLLiaM-noD/Personal-Website/blob/master/web%20screenshot/Screenshot_2.png)
 
 ## Your clients or company
+Show your clients or company you have been work for.
 ![Image of Personal-Website](https://github.com/WiLLiaM-noD/Personal-Website/blob/master/web%20screenshot/Screenshot_3.png)
 
 ## List of your completed projects
@@ -29,6 +31,7 @@ You can add:
 You can add:
 
 - Image of your education institution
+- Course you have attended
 
 ![Image of Personal-Website](https://github.com/WiLLiaM-noD/Personal-Website/blob/master/web%20screenshot/Screenshot_5.png)
 
