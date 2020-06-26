@@ -2,6 +2,10 @@
 
 Personal website template that can be use as your website.
 
+Nowadays, Eveyone should have a portfolio website. This is the sample of portfolio website.
+
+This website have implemented HTML, CSS, And Bootstrap 4 To make it responsive in all devices.
+
 ## Header side
 You can change:
 
@@ -44,3 +48,7 @@ You can change:
 ![Image of Personal-Website](https://github.com/WiLLiaM-noD/Personal-Website/blob/master/web%20screenshot/Screenshot_6.png)
 
 You can deploy this website from github pages or netlify.
+
+[Github Pages Tutorial](https://guides.github.com/features/pages/)
+
+[Netlify Tutorial](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
