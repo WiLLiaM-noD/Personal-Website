@@ -171,9 +171,24 @@ h2 {
   height: 200px;
 }
 
+.edu:hover {
+  animation: scale 1s;
+}
+
 .edu-banner {
   height: 400px;
-  width: 480px;
+  width: 580px;
+}
+
+@keyframes scale {
+  from {
+    width: 200px;
+    height: 200px;
+  }
+  to {
+    width: 210px;
+    height: 210px;
+  }
 }
 
 /* education */
