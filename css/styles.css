@@ -49,6 +49,7 @@ body {
   -webkit-box-shadow: 6px 6px 15px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 6px 6px 15px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 6px 6px 15px 0px rgba(0, 0, 0, 0.75);
+  height: 200px;
 }
 
 /* navigation */
@@ -148,7 +149,7 @@ h2 {
 /* education */
 
 #education {
-  padding: 7% 10%;
+  padding: 7% 2rem;
   text-align: center;
 }
 
