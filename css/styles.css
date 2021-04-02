@@ -1,5 +1,5 @@
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 #title {
@@ -30,14 +30,14 @@ body {
 }
 
 .navbar-brand {
-  font-family: "Ubuntu";
+  font-family: 'Ubuntu';
   font-size: 2rem;
   color: antiquewhite;
 }
 
 .nav-link {
   color: antiquewhite;
-  font-family: "Ubuntu";
+  font-family: 'Ubuntu';
   font-size: 1.2rem;
 }
 
@@ -49,13 +49,13 @@ body {
   -webkit-box-shadow: 6px 6px 15px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 6px 6px 15px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 6px 6px 15px 0px rgba(0, 0, 0, 0.75);
-  height: 200px;
+  height: 170px;
 }
 
 /* navigation */
 
 h1 {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   line-height: 1.5;
   font-weight: bold;
@@ -114,7 +114,7 @@ h1 {
 }
 
 h2 {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   font-weight: 700;
   font-size: 1.75rem;
   margin-bottom: 50px;
@@ -173,25 +173,14 @@ h2 {
 }
 
 .edu:hover {
-  animation: scale 1s;
+  transform: scale(1.2);
+  transition: all 1s;
 }
 
 .edu-banner {
   height: 400px;
   width: 580px;
 }
-
-@keyframes scale {
-  from {
-    width: 200px;
-    height: 200px;
-  }
-  to {
-    width: 210px;
-    height: 210px;
-  }
-}
-
 /* education */
 
 /* footer */
@@ -249,7 +238,7 @@ h2 {
 
 @media (max-width: 1100px) {
   h2 {
-    font-family: "Montserrat";
+    font-family: 'Montserrat';
     font-weight: 700;
     font-size: 1.5rem;
     margin-bottom: 50px;
@@ -278,7 +267,7 @@ h2 {
     display: none;
   }
   h2 {
-    font-family: "Montserrat";
+    font-family: 'Montserrat';
     font-weight: 700;
     font-size: 1.25rem;
     margin-bottom: 50px;
